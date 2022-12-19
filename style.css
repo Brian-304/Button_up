@@ -1,0 +1,26 @@
+.Submit {
+    border-radius: 5px;
+    color: #17a2b8;
+    background-color: #f5f5f5;
+    width: 125px;
+    height: 35px;
+    font-size: 30px;
+}
+
+.Add {
+    border-radius: 100px;
+    color: white;
+    background-color: #00d1b2;
+    width: 50px;
+    height: 50px;
+    font-size: 30px;
+}
+
+.Create_Account {
+    border-radius: 1px;
+    color: white;
+    background-color: #2b78e4;
+    width: 150px;
+    height: 35px;
+    font-size: 15px;
+}
